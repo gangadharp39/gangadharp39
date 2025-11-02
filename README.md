@@ -1,7 +1,7 @@
 <!-- Profile README.md -->
 
-<h1 align="center">Hi 👋, I'm P. Gangadhra</h1>
-<h3 align="center">Aspiring Data Scientist passionate about AI, Cloud, and Web Development</h3>
+<h1 align="center">Hi 👋, I'm P. Gangadhar</h1>
+<h3 align="center">Aspiring Data Scientist passionate about AI, Cloud</h3>
 
 ---
 
