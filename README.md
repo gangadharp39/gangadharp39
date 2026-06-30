@@ -35,7 +35,7 @@
 
 ### 🌐 Connect with Me  
 <p align="center">
-  <a href="www.linkedin.com/in/p-h-naga-bala-gangadhar-a015a6313" target="_blank">
+  <a href="www.linkedin.com/in/p-h-naga-bala-gangadhar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:your-email@gmail.com">
